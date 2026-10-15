@@ -1,7 +1,7 @@
-## Memory Game with Arduino
+# Memory Game with Arduino
 This is a memory game developed using Arduino! For each round, four LEDs will light up, and the player will enter the combination by pressing the corresponding buttons. Try to beat the highscore!
 
-# Components Needed
+## Components Needed
 - 1 Arduino Uno R3
 - 4 Light-Emitting Diodes (LEDs)
 - 4 220 Ohm Resistors
@@ -12,13 +12,13 @@ This is a memory game developed using Arduino! For each round, four LEDs will li
 - A lot of wires!
 - Optional: Carboard box, paint, soldering iron, and solder
 
-# Tinkercad Circuit
+## Tinkercad Circuit
 <img width="1361" height="670" alt="image" src="https://github.com/user-attachments/assets/24464526-4070-4c4a-a639-0d818ff906e2" />
 
-# Schematic
+## Schematic
 <img width="947" height="728" alt="image" src="https://github.com/user-attachments/assets/bdaaf148-a2d7-44df-a8c5-8d5bc724bef5" />
 
-# Steps
+## Steps
 
 1. Create your circuit according to the schematic below.
 2. Upload the code to the Arduino microcontroller from the Arduino IDE.
